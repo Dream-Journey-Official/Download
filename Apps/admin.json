@@ -1,0 +1,28 @@
+{
+  "ads": "admob",
+  "player": "NS",
+  "List": [
+    {
+      "image": "Link",
+      "server": [
+        {
+          "Link": ""
+        },
+        {
+          "Link": ""
+        }
+      ]
+    },
+    {
+      "image": "Link",
+      "server": [
+        {
+          "Link": ""
+        },
+        {
+          "Link": ""
+        }
+      ]
+    }
+  ]
+}
